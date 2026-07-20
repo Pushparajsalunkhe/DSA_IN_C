@@ -35,5 +35,5 @@ int main()
 	}
 	
 	int result = second_largest(arr,size);
-	printf("The Second Largest Element Is:-%d",result);
+	printf("The Second Largest Element Is:%d",result);
 }
